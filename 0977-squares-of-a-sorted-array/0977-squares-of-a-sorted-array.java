@@ -5,11 +5,11 @@ class Solution {
         int right=nums.length-1;
         int i=nums.length-1;
         while(left<=right){
-            if(Math.pow(nums[right],2)>Math.pow(nums[left],2)){
-                arr[i]=(int)Math.pow(nums[right],2);
+            if(nums[right]*nums[right]>nums[left]*nums[left]){
+                arr[i]=nums[right]*nums[right];
                 i--;right--;
             }else{
-                arr[i]=(int)Math.pow(nums[left],2);
+                arr[i]=nums[left]*nums[left];
                 i--;left++;
             }
         }return arr;
