@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
