@@ -38,11 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
@@ -61,9 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0067-add-binary) |
 | [0645-set-mismatch](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
