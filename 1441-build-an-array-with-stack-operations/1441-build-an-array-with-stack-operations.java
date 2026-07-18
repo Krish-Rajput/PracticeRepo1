@@ -1,4 +1,3 @@
-import java.util.*;
 class Solution {
     public List<String> buildArray(int[] target, int n) {
         List<String> res=new ArrayList<>();
