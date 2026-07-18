@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0283-move-zeroes) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0283-move-zeroes) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
