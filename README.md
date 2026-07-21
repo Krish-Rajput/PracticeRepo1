@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1929-concatenation-of-array) |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/3880-minimum-absolute-difference-between-two-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1441-build-an-array-with-stack-operations) |
+## Enumeration
+|  |
+| ------- |
+| [3880-minimum-absolute-difference-between-two-values](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/3880-minimum-absolute-difference-between-two-values) |
 <!---LeetCode Topics End-->
