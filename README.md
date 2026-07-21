@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1929-concatenation-of-array) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/3880-minimum-absolute-difference-between-two-values) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0977-squares-of-a-sorted-array) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
