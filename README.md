@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0977-squares-of-a-sorted-array) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0189-rotate-array) |
 ## Sliding Window
 |  |
 | ------- |
