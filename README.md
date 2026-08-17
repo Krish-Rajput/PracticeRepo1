@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0643-maximum-average-subarray-i) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
 |  |
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0962-maximum-width-ramp](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0962-maximum-width-ramp) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
