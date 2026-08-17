@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0724-find-pivot-index) |
 | [0962-maximum-width-ramp](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
 |  |
