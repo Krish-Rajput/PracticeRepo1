@@ -9,8 +9,9 @@ class Solution {
             int left=i+1;
             int right=nums.length-1;
             while(left<right){
-                if(nums[left]+nums[right]+nums[i]==0){
-                    res.add(Arrays.asList(nums[left],nums[right],nums[i]));
+                int sum=nums[left]+nums[right]+nums[i];
+                if(sum==0){
+                    res.add(Arrays.asList(nums[i],nums[left],nums[right]));
                     left++;
                     right--;
                     while(nums[left]==nums[left-1]&&left<right){
@@ -19,11 +20,10 @@ class Solution {
                     while(nums[right]==nums[right+1]&&left<right){
                         right--;
                     }
-                }
-                else if(nums[left]+nums[right]+nums[i]>0){
-                    right--;
-                }else{
+                }else if(sum<0){
                     left++;
+                }else{
+                    right--;
                 }
             }
         }return res;
