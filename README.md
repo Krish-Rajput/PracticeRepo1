@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0724-find-pivot-index) |
+| [0912-sort-an-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0912-sort-an-array) |
 | [0962-maximum-width-ramp](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0912-sort-an-array) |
 ## Trie
 |  |
 | ------- |
@@ -165,4 +169,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0303-range-sum-query-immutable) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
