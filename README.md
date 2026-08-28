@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1929-concatenation-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2965-find-missing-and-repeated-values) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0189-rotate-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -189,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
