@@ -202,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2965-find-missing-and-repeated-values) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
