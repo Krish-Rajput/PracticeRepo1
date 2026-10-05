@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1768-merge-strings-alternately) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
