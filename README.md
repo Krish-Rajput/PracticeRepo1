@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0876-middle-of-the-linked-list) |
 | [0962-maximum-width-ramp](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
