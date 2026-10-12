@@ -1,32 +1,20 @@
 class Solution {
     public int getCommon(int[] nums1, int[] nums2) {
-       if (nums1.length > nums2.length) {
-            return getCommon(nums2, nums1);
+        if(nums1[nums1.length-1]<nums2[0]|| nums2[nums2.length-1]<nums1[0]){
+            return -1;
         }
-        
-        for (int num : nums1) {
-            if (binarySearch(nums2, num)) {
-                return num; 
+        int i1=0;
+        int i2=0;
+        while(i1<nums1.length&&i2<nums2.length){
+            if(nums1[i1]==nums2[i2]){
+                return nums1[i1];
             }
+            else if(nums1[i1]>nums2[i2]){
+                i2++;
+            }else{
+                i1++;}
+            
         }
-        
         return -1;
-    }
-    
-    private boolean binarySearch(int[] arr, int target) {
-        int left = 0;
-        int right = arr.length - 1;
-        
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            if (arr[mid] == target) {
-                return true;
-            } else if (arr[mid] < target) {
-                left = mid + 1;
-            } else {
-                right = mid - 1;
-            }
-        }
-        return false;
     }
 }
