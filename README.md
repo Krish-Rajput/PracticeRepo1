@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1991-find-the-middle-index-in-array) |
+| [2540-minimum-common-value](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2965-find-missing-and-repeated-values) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2540-minimum-common-value) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Binary Search
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0209-minimum-size-subarray-sum) |
+| [2540-minimum-common-value](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2540-minimum-common-value](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
