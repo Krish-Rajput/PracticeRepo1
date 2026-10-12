@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1480-running-sum-of-1d-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1991-find-the-middle-index-in-array) |
 | [2540-minimum-common-value](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2540-minimum-common-value) |
