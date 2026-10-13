@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0189-rotate-array) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2235-add-two-integers](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2469-convert-the-temperature) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
