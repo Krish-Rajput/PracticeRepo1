@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1768-merge-strings-alternately) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [3110-score-of-a-string](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
