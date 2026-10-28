@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/1991-find-the-middle-index-in-array) |
 | [2540-minimum-common-value](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2965-find-missing-and-repeated-values) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/3880-minimum-absolute-difference-between-two-values) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Two Pointers
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2469-convert-the-temperature) |
 | [2965-find-missing-and-repeated-values](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/2965-find-missing-and-repeated-values) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Krish-Rajput/PracticeRepo1/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sliding Window
 |  |
 | ------- |
