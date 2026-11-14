@@ -3,9 +3,9 @@ class Solution {
         int curr=0;
         for(int i=0;i<nums.length;i++){
             if(nums[i]!=0){
-                int temp=nums[curr];
-                nums[curr]=nums[i];
-                nums[i]=temp;
+                int temp=nums[i];
+                nums[i]=nums[curr];
+                nums[curr]=temp;
                 curr++;
             }
         }
