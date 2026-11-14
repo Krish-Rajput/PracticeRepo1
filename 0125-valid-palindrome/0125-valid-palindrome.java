@@ -3,19 +3,13 @@ class Solution {
         int left=0;
         int right=s.length()-1;
         while(left<right){
-            char l=s.charAt(left);
-            char r=s.charAt(right);
-            if(!Character.isLetterOrDigit(l)){
+            if(Character.toLowerCase(s.charAt(left))==Character.toLowerCase(s.charAt(right))){
                 left++;
-            }
-            else if(!Character.isLetterOrDigit(r)){
                 right--;
             }
-            else{
-                if(Character.toLowerCase(l)!=Character.toLowerCase(r)){
-                    return false;
-                }left++;right--;
-            }
+            else if(!Character.isLetterOrDigit(s.charAt(left)))left++;
+            else if(!Character.isLetterOrDigit(s.charAt(right)))right--;
+            else return false;
         }return true;
     }
 }
